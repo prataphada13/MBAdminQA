@@ -1,2 +1,0 @@
-# MBAdminQA
-QA mb admin
